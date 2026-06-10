@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis Dashboard – Power BI Project
+# ☕ Coffee Shop Sales Analysis Dashboard – MS Excel Project
 
 # 📌 Project Overview
 
