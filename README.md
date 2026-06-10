@@ -179,7 +179,8 @@ Dashboard screenshots here.
 
 Analysis and Recommendations:-
 
-<img width="1865" height="670" alt="Screenshot 2026-06-07 180337" src="https://github.com/user-attachments/assets/6574bbe4-3d6a-44cd-9d24-e12d51bbbf14" />
+<img width="1867" height="652" alt="Screenshot 2026-06-10 164444" src="https://github.com/user-attachments/assets/867c96d6-3c1d-4709-955f-de7a20f5300b" />
+
 
 ---
 
