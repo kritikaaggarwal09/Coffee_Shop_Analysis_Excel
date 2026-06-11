@@ -173,7 +173,7 @@ This project demonstrates how Excel can be used as a powerful business intellige
 
 ## 📸Dashboard Preview
 
-Dashboard screenshots here.
+Dashboard screenshots here:-
 
 <img width="1864" height="673" alt="Screenshot 2026-06-07 180321" src="https://github.com/user-attachments/assets/e7204b66-fc81-4ff3-a207-dec619d0836d" />
 
